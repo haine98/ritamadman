@@ -1,0 +1,12 @@
+  <start>: <Adjective> <Adjective2> <Noun>
+  <Adjective>: <Soft> | <Neutral> | <Spicy>
+  
+  <Soft>: Soft | Delightful | Healthy | Agreeable | Jolly | Gelatinous | Kind | Calm | Wonderful | Silly | Blithesome | Incredible | Remarkable | Wondrous | Cute | Gorgeous | Bubbly | Cushy | Creamy | Curvy | Dreamy | Tart | Gooey | Moist | Mushy | Chewy | Creamed | Curd | Dehydrated | Enjoyable | Sweet | Fluffy | Heavenly | Infused | Layered | Mouth-watering | Mixed | Plump | Sweet and Sour | Whipped | Viscous | Jiggly | Orgasmically-delicious
+  
+  <Neutral>: Soaked | Sticky | Stuffed | Watery | Well-done | Sparkling | Sizzling | Oozing | Mild | Melting | Infused | Laced | Light | Grainy | Golden | Good | Gritty | Fresh | Dripping | Chewy
+  
+  <Spicy>: Acrid | Acidic | Brackish | Bold | Crispy | Disagreeable | Distasteful | Disgusting | Spicy | Overpowering | Penetrating | Robust | Snappy | Spoiled | Sour | Tepid | Unsavory | Wilted | Viscous | Tangy | Wet | Thick | Strong | Stinky | Deadly | Fatal | Ultra-spicy | Sharp
+  
+  <Adjective2>: <Adjective>
+  
+  <Noun>: Splatter | Mixture | Mix | Blend | Mingling | Combination | Fusion | Amalgamation | Hodgepodge | Medley | Farrago | Miscellany | Compound | Braid | Brew | Synthesis | Interfusion | Assortment | Hotchpotch | Jumble | Array | Potpourri | Mishmash | Salmagundi | Gallimaufry | Hash | Conglomeration | Oddments | Smorgasbord | Motley | Ragbag | Mingle-mangle | Miscellanea

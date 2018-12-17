@@ -1,0 +1,25 @@
+  <start>:    and <method2> | but <method3> [0.75]| <method4>
+  
+  <method2>: <moreAction> | <oneAction> [3]
+  
+  <method3>: don't look at it. | discard it afterwards. | trash it. | store it away forever. | make sure to scold it. | don't speak with it. | don't think about it. | throw it out your window. | put it on the floor. | don't touch it anymore. | don't stop looking at it. | it is useless so throw it out. | throw it away. | this is unnecessary. 
+  
+  <method4>: until burnt. | until it turns brown. | until charred. | for <number> <time> | until <time2> | until it is the color of your hair. | until it is as thick as your pinky finger. | until it puffs up. | until it becomes chewy. | until it is a solid color. | for however long you'd like. | until you are happy with it. | until you are happy. | until you are sad. | until you are mad. | until you can't stand it. | until it becomes evil. | until it becomes sentient. | until it talks. | until it looks like a <animal> | until it looks like an <animal2> [0.5]
+  
+  <animal>: dog. | horse. | jellyfish. | crab. | bat. | barnacle. | badger. | blobfish. | camel. | cat. | centipede. | catfish. | cheetah. | turtle. | dingo. | dolphin. | dragonfly. | fish. | flounder. | flamingo. | fox. | ferret. | french bulldog. | gecko. | giraffe. | gibbon. | gila monster. | hermit crab. | hare. | hippo. | honey bee. | jaguar. | koala. | kiwi. | komodo dragon. | leopard. | lobster. | lion. | lizard. | llama. | lynx. | magpie. | macaw. | manatee. | marsh frog. | neanderthal. | newt. | numbat. | mayfly. | meerkat. reptile. | panther. | parrot. | persian. | pig. | penguin. | quail. | raccoon. | rattlesnake. | red panda. | reindeer. | rhino. | platypus. | piranha. | sea slug. | sand lizard. | salamander. | seal. | sheep. | seahorse. | tang. | tiger shark. | tiger. | tortoise. | toucan. | termite. | vulture. | wallaby. | wasp. | walrus. | water dragon. | water vole. | weasel. | whippet. | whale shark. | white tiger. | wild boar. | yak. | zebra. | zonkey. | crocodile. | <shape>.
+  
+  <animal2>: elephant. | axolotl. | eagle. | electric eel. | edible frog. | echidna. | eastern gorilla. | emu. | elephant seal. | aardvark. | afghan hound. | impala. | insect. | oyster. | ocelot. | opossum. | otter. 
+  
+  <number>:  2 | 3 | 4 | 5 | 6 | 100 | 50 | 30 | 40 | 45 | 33 | 42 | 604
+  
+  <time>: hours. | light years. | milliseconds. | seconds. | and a half seconds. | and a half milliseconds. | light days. | nanoseconds. | decaseconds. | kiloseconds. | gigaseconds. | myriaseconds.
+  
+  <time2>: your hands wrinkle. | the sun sets. | it is scorched. | it is ice cold. | it develops mold. | it catches on fire. | your mother comes. | you ruin it. | your hair grows an inch. | your nails grow an inch. | the sun rises. | the next solar eclipse. | the next full moon. | the tides are the highest. | you graduate college. | buy a house.
+  
+  <moreAction>:  blend into a <shape> | blend into an <shape2> | mold into a <shape> | mold into an <shape2> | bake for <number> <time> | smell it for <number> <time>
+  
+  <shape>: ball. | triangle. | hexagon. | sphere. | scalene triangle. | trapezoid. | heptagon. | dodecagon. | heart. | star. | cross. | torus. | tetrahedron. | cuboid. | cylinder.
+  
+  <shape2>: octogon. | isosceles triangle. | equilateral triangle. | infinity symbol. | irregular pentagon.
+  
+  <oneAction>: eat. | problem solve. | conceptualize. | scrutinize. | look at it carefully. | decipher. | appraise. | breathe. | sit on it. | poke it. | challenge it to battle. | take a picture of it. | bathe in it. | pour it on yourself. | dabble with it. | annoy it. | jiggle it around. | kiss it. | love it. | name it after your first-born. | converse with it. |  jam with it. | turn on loud music. | open your windows. | barricade yourself. | buy a new house. | get out of the kitchen. | slather it on yourself. | apply for two colleges. | renovate the kitchen. | eat it as a snack. | dance. | interpret it. | try to communicate with it.
